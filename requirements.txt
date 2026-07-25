@@ -1,0 +1,4 @@
+fastapi
+pydantic
+PyPDF2
+python-multipart
