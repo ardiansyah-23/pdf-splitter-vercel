@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+# Masukkan nama database Anda di bawah ini agar tetap private
+tokens.db
